@@ -5,3 +5,7 @@
 .caps {
     text-transform: capitalize;
 }
+
+.magicky {
+    font-style: italic;
+}
