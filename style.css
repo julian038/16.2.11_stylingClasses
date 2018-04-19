@@ -9,3 +9,7 @@
 .magicky {
     font-style: italic;
 }
+
+.allcaps {
+    text-transform: uppercase;
+}
